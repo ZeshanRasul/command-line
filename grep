@@ -1,0 +1,1 @@
+The grep command searches through files or filenames for lines that match a given word or strings.  It takes the parameters for the word(s) to search for and the text or files to be searched.
